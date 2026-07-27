@@ -1,0 +1,35 @@
+Copyright (c) 2026 Skillo Labs. Todos os direitos reservados.
+
+TERMOS DE USO — Gerador de Vozes 0800 do SKILLÃO
+
+1. USO PERMITIDO
+   O software é disponibilizado gratuitamente para uso pessoal e comercial.
+   Você pode usá-lo para produzir narrações e monetizar os vídeos que criar
+   com ele, sem pagar nada e sem pedir autorização.
+
+2. REDISTRIBUIÇÃO
+   É permitido compartilhar o link oficial de download deste repositório.
+
+   É PROIBIDO, sem autorização por escrito de Skillo Labs:
+   - redistribuir o executável em outro local, hospedagem ou canal;
+   - modificar o software e distribuir a versão modificada;
+   - remover, alterar ou substituir a marca, os créditos ou os links contidos
+     no aplicativo;
+   - revender o software ou cobrar por seu acesso, no todo ou em parte.
+
+3. ENGENHARIA REVERSA
+   É proibido descompilar, desmontar ou extrair o conteúdo do executável com o
+   objetivo de redistribuir, modificar ou criar obra derivada.
+
+4. GARANTIA
+   O software é fornecido "COMO ESTÁ", sem garantia de qualquer natureza,
+   expressa ou implícita. O uso é por conta e risco do usuário. Skillo Labs não
+   se responsabiliza por danos decorrentes do uso ou da impossibilidade de uso
+   do software.
+
+5. SERVIÇOS DE TERCEIROS
+   O software utiliza a API do Google Gemini. O uso dessa API está sujeito aos
+   termos do Google, e cada usuário é responsável pela própria chave de acesso
+   e pelo conteúdo que gerar.
+
+Contato: https://www.youtube.com/@skillolabs
