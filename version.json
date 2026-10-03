@@ -1,0 +1,6 @@
+﻿{
+    "version":  "1.2.0",
+    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.2.0/gerador-de-vozes-skl.exe",
+    "sha256":  "a4db36ccedb13f4c9ddc4bb1cd33fa7d2306850cb27c71216abf3b1e2c0116f7",
+    "notes":  "Atualizacao automatica dentro do app, botao Aplicar estilo por bloco, limite de tempo nas chamadas ao Google."
+}
