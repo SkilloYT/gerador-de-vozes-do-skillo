@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.3.2",
-    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.2/gerador-de-vozes-skl.exe",
-    "sha256":  "3c3e4001cbc4c0dee93df75208f97eb7fd04cad908de58654d83e65cd61938ae",
-    "notes":  "Mostra o motivo real quando a clonagem de voz falha (antes aparecia sempre uma mensagem de limite diario que nao era verdadeira). Corrige voz apagada que continuava selecionada."
+    "version":  "1.3.3",
+    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.3/gerador-de-vozes-skl.exe",
+    "sha256":  "3ca43cd3751be1e58e380d48424cb96c95e9a26a306b0e694afcd7c5552b820f",
+    "notes":  "Corrige a atualizacao automatica que nao instalava quando o caminho do programa tinha acento. Mostra o motivo real quando a clonagem de voz falha."
 }
