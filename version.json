@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.3.1",
-    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.1/gerador-de-vozes-skl.exe",
-    "sha256":  "dace6b97b0b0914a1e655ea885f4e342f270e32c206ab503133a833975af1d33",
-    "notes":  "Corrige o erro 404 ao apagar uma voz clonada e criar outra. Nova aba Audio para SRT, atualizacao automatica e Aplicar estilo por bloco."
+    "version":  "1.3.2",
+    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.2/gerador-de-vozes-skl.exe",
+    "sha256":  "3c3e4001cbc4c0dee93df75208f97eb7fd04cad908de58654d83e65cd61938ae",
+    "notes":  "Mostra o motivo real quando a clonagem de voz falha (antes aparecia sempre uma mensagem de limite diario que nao era verdadeira). Corrige voz apagada que continuava selecionada."
 }
