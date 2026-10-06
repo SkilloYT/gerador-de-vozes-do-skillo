@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.3.4",
-    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.4/gerador-de-vozes-skl.exe",
-    "sha256":  "7b665c3843449c527c8e4fa43482cf51d01e393813cef0f1fc64fdc56f2ec2f4",
-    "notes":  "Mostra a causa real quando a voz clonada falha: agora avisa em portugues que o Google exige cota paga (Tier 1), em vez de dizer que o limite diario acabou. Corrige a atualizacao automatica com acento no caminho."
+    "version":  "1.3.5",
+    "url":  "https://github.com/SkilloYT/gerador-de-vozes-do-skillo/releases/download/v1.3.5/gerador-de-vozes-skl.exe",
+    "sha256":  "fac5513ea92636857ab3882414812d80638421e35554a10274f16b88bf168336",
+    "notes":  "Voz clonada: quando o Google limita por minuto o app espera e tenta de novo sozinho; quando o limite e longo, avisa o tempo real para liberar. Mostra a causa real dos erros de clonagem."
 }
